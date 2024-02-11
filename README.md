@@ -53,9 +53,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is focused on parsimonious technologies and methods for upper limb rehabilitation. The need for low-cost technologies is a major challenge in the development of robot-assisted therapies for the rehabilitation of neuro-motor function disorders. This research has started at ICube in 2022-23 in the framework of a joint project with Politecnico Milano, with two Master thesis projects, one focused on the development of a robotic exoskeleton structure, and the other on the design of bracelets designed to detect patient’s muscular activity onset. In the present project, we aim at integrating the envisioned proofs of concept. This will require both to optimize the already proposed system and to design and control its actuation, in order to perform patient specific assistance.
+This Master thesis project is dedicated to research economical technologies aimed at activating upper-limb muscles through the design and prototyping of an affordable exoskeleton structure for rehabilitation and assistance, especially for people who have suffered a stroke. Extensive research has been conducted, first exploring into the medical context surrounding the illness, encompassing an understanding of its detection through medical imaging exams and its consequences, particularly
+within the neuro motor domain. Then, a detailed review of rehabilitation methods, both robotic and non-robotic, was performed in order to better understand the specifications and complexities to design an exoskeleton aimed at rehabilitation. Furthermore, the project conducted an in-depth exploration of various types of robotic actuators utilized in exoskeletons for rehabilitation purposes. Through comprehensive investigation, the characteristics and applications of different actuators were examined to understand their suitability for assisting with upper-limb rehabilitation. Additionally, the concept of compliance mechanisms was introduced, elucidating their significance in enhancing the functionality and comfort of exoskeleton devices. 
 
-Link to project description: [https://seafile.unistra.fr/f/a239473c53a845f4aa2c](https://seafile.unistra.fr/f/a239473c53a845f4aa2c/)
+### The main contribution of the present Master thesis project
+
+This research has started at ICube in 2022-23 in the framework of a joint project with Politecnico Milano, and the current master thesis aims to propose an actuation solution based on the use of springs, finish the CAD design of the exoskeleton structure and print it, assembly the mechanical system with a cost-efficiency measurement system developed for me in the first year of the master’s degree [Project Link](https://github.com/Jesse-Alves/Low-Cost-Force-Sensing-System-Prototyping-for-Upper-Limb-Rehabilitation), and develop a control strategy to assist volitational motion in ROS2 environment. By systematically evaluating and presenting the advantages and drawbacks of each mechanism, the project provides valuable insights into the design considerations and trade-offs inherent in developing effective and parsimonious actuation systems for upper-limb exoskeletons.
+
+
+Master's project report link: [here](https://github.com/Jesse-Alves/Design-and-Prototyping-of-Parsimonious-Technologies-for-Upper-Limb-Muscle-Activation/tree/main/Project%20Report)
 
 <!-- CONTACT -->
 ## Contact
